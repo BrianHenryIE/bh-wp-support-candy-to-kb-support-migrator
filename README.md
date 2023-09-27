@@ -4,7 +4,7 @@ WordPress WP CLI tool which maps [SupportCandy](https://wordpress.org/plugins/su
 
 Why? The SupportCandy UI is a JavaScript UI which doesn't allow having more than one ticket open at a time. The KB Support UI uses WordPress's native custom post type UI which is familiar and easily extensible. 
 
-IIRC, this was used to migrate a few thousand of posts. 
+IIRC, this was used to migrate ~4,000 tickets. 
 
 # NB
 
